@@ -1,0 +1,24 @@
+{
+  "name": "spawnreadme",
+  "version": "1.0.0",
+  "description": "NodeJs app to generate README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3guzman-dennis/spawnreadme.git"
+  },
+  "keywords": [
+    "readme",
+    "node",
+    "js"
+  ],
+  "author": "Dennis de Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3guzman-dennis/spawnreadme/issues"
+  },
+  "homepage": "https://github.com/d3guzman-dennis/spawnreadme#readme"
+}
